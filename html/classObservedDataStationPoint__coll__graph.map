@@ -1,0 +1,8 @@
+<map id="ObservedDataStationPoint" name="ObservedDataStationPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="483,107,677,133"/>
+<area shape="rect" id="node2" href="$classObservedDataStation.html" title=" " alt="" coords="45,5,207,32"/>
+<area shape="rect" id="node3" href="$structCommonParameters_1_1locationXYZ.html" title=" " alt="" coords="5,56,247,83"/>
+<area shape="rect" id="node4" href="$structCommonParameters_1_1locationXY.html" title=" " alt="" coords="10,107,242,133"/>
+<area shape="rect" id="node5" href="$structCommonParameters_1_1VolumeCoords.html" title=" " alt="" coords="20,158,232,199"/>
+<area shape="rect" id="node6" href="$structCommonParameters_1_1AreaCoords.html" title=" " alt="" coords="7,224,245,251"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ObservedDataStationNMT2" name="ObservedDataStationNMT2">
+<area shape="rect" id="node1" title=" " alt="" coords="835,211,1033,237"/>
+<area shape="rect" id="node2" href="$classObservedDataStation.html" title=" " alt="" coords="390,5,551,32"/>
+<area shape="rect" id="node3" href="$structCommonParameters_1_1locationXY.html" title=" " alt="" coords="5,136,237,163"/>
+<area shape="rect" id="node5" href="$structCommonParameters_1_1locationDipole.html" title=" " alt="" coords="363,163,578,205"/>
+<area shape="rect" id="node4" href="$structCommonParameters_1_1DoubleComplexValues.html" title=" " alt="" coords="366,277,575,318"/>
+<area shape="rect" id="node6" href="$structCommonParameters_1_1AreaCoords.html" title=" " alt="" coords="351,373,590,400"/>
+<area shape="rect" id="node7" href="$structCommonParameters_1_1InitComplexValues.html" title=" " alt="" coords="349,455,592,497"/>
+</map>

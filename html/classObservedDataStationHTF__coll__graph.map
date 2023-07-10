@@ -1,0 +1,11 @@
+<map id="ObservedDataStationHTF" name="ObservedDataStationHTF">
+<area shape="rect" id="node1" title=" " alt="" coords="880,244,1067,271"/>
+<area shape="rect" id="node2" href="$classObservedDataStationPoint.html" title=" " alt="" coords="507,107,701,133"/>
+<area shape="rect" id="node3" href="$classObservedDataStation.html" title=" " alt="" coords="45,5,207,32"/>
+<area shape="rect" id="node4" href="$structCommonParameters_1_1locationXYZ.html" title=" " alt="" coords="5,56,247,83"/>
+<area shape="rect" id="node5" href="$structCommonParameters_1_1locationXY.html" title=" " alt="" coords="10,107,242,133"/>
+<area shape="rect" id="node6" href="$structCommonParameters_1_1VolumeCoords.html" title=" " alt="" coords="20,158,232,199"/>
+<area shape="rect" id="node7" href="$structCommonParameters_1_1AreaCoords.html" title=" " alt="" coords="7,224,245,251"/>
+<area shape="rect" id="node8" href="$structCommonParameters_1_1DoubleComplexValues.html" title=" " alt="" coords="499,237,709,278"/>
+<area shape="rect" id="node9" href="$structCommonParameters_1_1InitComplexValues.html" title=" " alt="" coords="483,326,725,367"/>
+</map>

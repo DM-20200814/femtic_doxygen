@@ -1,0 +1,12 @@
+<map id="ObservedDataStation" name="ObservedDataStation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$classObservedDataStationNMT.html" title=" " alt="" coords="219,5,409,32"/>
+<area shape="rect" id="node3" href="$classObservedDataStationNMT2.html" title=" " alt="" coords="215,56,413,83"/>
+<area shape="rect" id="node5" href="$classObservedDataStationPoint.html" title=" " alt="" coords="217,136,411,163"/>
+<area shape="rect" id="node4" href="$classObservedDataStationNMT2ApparentResistivityAndPhase.html" title=" " alt="" coords="461,19,720,61"/>
+<area shape="rect" id="node6" href="$classObservedDataStationHTF.html" title=" " alt="" coords="497,85,684,112"/>
+<area shape="rect" id="node7" href="$classObservedDataStationMT.html" title=" " alt="" coords="500,136,681,163"/>
+<area shape="rect" id="node9" href="$classObservedDataStationPT.html" title=" " alt="" coords="502,187,679,213"/>
+<area shape="rect" id="node10" href="$classObservedDataStationVTF.html" title=" " alt="" coords="497,237,684,264"/>
+<area shape="rect" id="node8" href="$classObservedDataStationApparentResistivityAndPhase.html" title=" " alt="" coords="768,129,988,170"/>
+</map>
